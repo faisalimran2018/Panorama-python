@@ -41,6 +41,10 @@ The script is made up of several functions within the `Image_Stitching` class:
 Please ensure the compatibility of the OpenCV version with SIFT algorithm as it's patent protected and may not be included in some OpenCV distributions.
 
 ## Result
+This image shows the features based on which these images were stitched.
+![Matching Results](https://github.com/faisalimran2018/Panorama-python/blob/main/matching.jpg)
+
+This image shows the final result but I think it needs a lot of refinements due to the difference in camera angles. 
 ![image description](https://github.com/faisalimran2018/Panorama-python/blob/main/firstResult.jpg)
 
 ## License
