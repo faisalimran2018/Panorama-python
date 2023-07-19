@@ -41,7 +41,7 @@ The script is made up of several functions within the `Image_Stitching` class:
 Please ensure the compatibility of the OpenCV version with SIFT algorithm as it's patent protected and may not be included in some OpenCV distributions.
 
 ## Result
-![image description](/Users/Faisal/PycharmProjects/pano/firstResult.jpg)
+![image description](https://github.com/faisalimran2018/Panorama-python/blob/main/firstResult.jpg)
 
 ## License
 
